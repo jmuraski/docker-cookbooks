@@ -1,4 +1,4 @@
 #!/bin/sh
 
-docker build -t quintenk/mongo .
-docker build -t quintenk/mongo:2.4.9 .
+docker build -t jmuraski/mongo .
+docker build -t jmuraski/mongo:2.4.9 .

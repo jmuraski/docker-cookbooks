@@ -1,4 +1,4 @@
 #! /bin/bash
 
-docker build -t quintenk/jdk-oracle .
-docker build -t quintenk/jdk-oracle:8 .
+docker build -t jmuraski/jdk-oracle .
+docker build -t jmuraski/jdk-oracle:8 .

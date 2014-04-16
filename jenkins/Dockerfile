@@ -1,6 +1,6 @@
-FROM quintenk/jdk-oracle:7
+FROM jmuraski/jdk-oracle:7
 
-MAINTAINER Quinten Krijger "https://github.com/Krijger
+MAINTAINER Joseph Muraski "https://github.com/jmuraski
 
 RUN mkdir -p /var/lib/jenkins && wget http://mirrors.jenkins-ci.org/war/latest/jenkins.war -O /var/lib/jenkins/jenkins.war
 

@@ -1,4 +1,4 @@
 #!/bin/sh
-docker build -t quintenk/tomcat .
-docker build -t quintenk/tomcat:7 .
+docker build -t jmuraski/tomcat .
+docker build -t jmuraski/tomcat:7 .
 

@@ -1,6 +1,6 @@
-FROM quintenk/jdk-oracle:7
+FROM jmuraski/jdk-oracle:7
 
-MAINTAINER Quinten Krijger "https://github.com/Krijger"
+MAINTAINER Joseph Muraski "https://github.com/jmuraski"
 
 RUN apt-get -y install tomcat7 && rm -rf /var/lib/tomcat7/webapps/ROOT
 

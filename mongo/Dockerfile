@@ -1,6 +1,6 @@
-FROM quintenk/supervisor
+FROM jmuraski/supervisor
 
-MAINTAINER Quinten Krijger "https://github.com/Krijger"
+MAINTAINER Joseph Muraski "https://github.com/jmuraski"
 
 RUN apt-get -y install wget
 
