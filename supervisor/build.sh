@@ -1,3 +1,3 @@
 #! /bin/bash
 
-docker build -t quintenk/supervisor .
+docker build -t jmuraski/supervisor .
